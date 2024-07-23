@@ -1,0 +1,6 @@
+# .env
+
+MAIL_HOST = "smtp.ethereal.email"
+MAIL_USERNAME = ""
+MAIL_PASSWORD = "" 
+MAIL_PORT = 587

@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+message Product {
+  int32 id = 1;
+  string name = 2;
+  float price = 3;
+  int32 user_id = 4;
+  // string created_at = 5;
+  // string updated_at = 6;
+}
+
+// message ProductRead {
+//   int32 id = 1;
+// }
+
+// message ProductUpdate {
+//   string name = 2;
+//   float price = 3;
+// }
